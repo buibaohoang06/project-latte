@@ -1,0 +1,16 @@
+{
+  "name": "project-latte",
+  "version": "1.0.0",
+  "description": "This project aims to help poor children across Vietnam connect with technology.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "project",
+    "charity",
+    "technology"
+  ],
+  "author": "Bui Bao Hoang",
+  "license": "ISC"
+}
